@@ -1,0 +1,117 @@
+body {
+  text-align: center;
+  background-color: #EEEEEE;
+}
+
+h1 {
+  color: #0F0326;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 5rem;
+}
+
+p{
+  color: #0F0326;
+  font-family: 'Nanum Pen Script', cursive;
+  padding-top: 7%;
+}
+
+a{
+  color: #0F0326;
+  font-family: sans-serif;
+  font-size: 0.5rem;
+  text-decoration:none;
+
+}
+
+a:hover {
+    color:#00A0C6;
+    text-decoration:none;
+    cursor:pointer;
+}
+
+footer {
+  color: #DBEDF3;
+}
+
+#name{
+  color: #0F0326;
+  font-size: 1.5rem;
+  font-family: 'Nanum Pen Script', cursive;
+  text-decoration:none;
+}
+
+#name:hover {
+    color:#00A0C6;
+    text-decoration:none;
+    cursor:pointer;
+}
+
+.a {
+  background-image: url("./images/camel.png");
+  background-repeat: no-repeat;
+  background-size: 60px 60px;
+
+}
+
+.s {
+  background-image: url("./images/cat.png");
+  background-repeat: no-repeat;
+  background-size: 60px 60px;
+
+}
+
+.d {
+  background-image: url("./images/dog.png");
+  background-repeat: no-repeat;
+  background-size: 60px 60px;
+
+}
+
+.j {
+  background-image: url("./images/dolphin.png");
+  background-repeat: no-repeat;
+  background-size: 60px 60px;
+
+}
+
+.k {
+  background-image: url("./images/horse.png");
+  background-repeat: no-repeat;
+ background-size: 60px 60px;
+}
+
+.l {
+  background-image: url("./images/penguin.png");
+  background-repeat: no-repeat;
+  background-size: 60px 60px;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.animal {
+  /* outline: none; */
+  border: 2px solid #EEEEEE;
+  border-radius: 15px;
+  font-size: 0;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 10px;
+  background-color: #EEEEEE;
+}
+
+.icon8{
+  padding-top: 1%;
+}
